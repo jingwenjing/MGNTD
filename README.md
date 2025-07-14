@@ -1,1 +1,1 @@
-# MGNTD
+# This is the code for the article entitled "Multi-graph regularized non-negative Tucker decomposition and its semi-supervised extension for image clustering". To run it, a "tensor_toolbox" implement is required. For more information including how to cite the toolbox, please visit the Tensor Toolbox homepage at http://www.sandia.gov/~tgkolda/TensorToolbox/.
