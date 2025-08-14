@@ -1,1 +1,0 @@
-# This is the code for the article entitled "Multi-graph regularized non-negative Tucker decomposition and its semi-supervised extension for image clustering". The file named "MGSNTD\_USPS\_demo.m" is an example to perform the code. For more information on Tensor Toolbox, please visit the Tensor Toolbox homepage at http://www.sandia.gov/~tgkolda/TensorToolbox/.
